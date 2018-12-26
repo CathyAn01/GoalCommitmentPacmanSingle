@@ -61,7 +61,7 @@ class Trial():
 			oldGrid=None
 		results["firstResponseTime"]=firstResponseTime
 		results["trialTime"]=wholeResponseTime
-		return results,oldGrid,playerGrid,Score,currentStopwatch
+		return results,oldGrid,playerGrid,score,currentStopwatch
 
 
 
